@@ -1,6 +1,6 @@
-## Calculator
+# Calculator
 
-# Simple calculator programm for 
+## Simple calculator programm for 
 1. Addition
 2. Substraction
 3. Division
