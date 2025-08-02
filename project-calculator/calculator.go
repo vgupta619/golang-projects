@@ -1,3 +1,4 @@
+// Simple calculator program
 package main
 
 import (
