@@ -20,15 +20,14 @@ func main() {
 	fmt.Scan(&choice)
 	if choice == 1 {
 		add(first, second)
-	}
-	if choice == 2 {
+	} else if choice == 2 {
 		sub(first, second)
-	}
-	if choice == 3 {
+	} else if choice == 3 {
 		div(first, second)
-	}
-	if choice == 4 {
+	} else if choice == 4 {
 		mul(first, second)
+	} else {
+		fmt.Printf("Wrong Choice!")
 	}
 }
 
